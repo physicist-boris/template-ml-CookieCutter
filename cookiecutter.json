@@ -1,4 +1,4 @@
 {
-    "project_name": "commentaires-inference",
-    "source": "src"
+    "ml_project":"EXU-COMMexp",
+    "subproject_name": "commentaires-inference"
 }   
